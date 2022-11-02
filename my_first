@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+
+./tnnp -s clear -t 10000000 -i backup3.bin s1s2_drift_3
+
+
+
+
+
+
